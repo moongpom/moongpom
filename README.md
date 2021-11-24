@@ -1,4 +1,4 @@
-# Hi👋, eunyoung.J 
+# Hi👋, I'm eunyoung.J 
 ### 안녕하세요😉 !  _정은영_ 입니다.
 
 💻 Majoring in Computer Science
