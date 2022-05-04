@@ -4,7 +4,7 @@
 💻 Majoring in Computer Science
 
 
-
+<!--
 <span>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
 </span>
 <br><br>
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moongpom&show_icons=true)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moongpom&count_private=true&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moongpom&count_private=true)-->
